@@ -1,1 +1,0 @@
-<p data-default="Enter your text here...">Enter your text here...</p>
