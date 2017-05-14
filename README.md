@@ -33,6 +33,12 @@ When running previously production WordPress sites there are a couple change you
 wp search-replace localhost:8080 production.com
 ```
 
+Or if you set the recommended alias from below,
+
+```
+wpcli-docker search-replace localhost:8080 production.com
+```
+
 * A sample `wp-config.php` has been included with the project to ensure the settings for any imported sites remain consistent. Just remember depending on your `sql` database dump and database name those settings will change.
 * There is a good chance permalinks will be enabled on any production site you upload, just ensure that the `.htaccess` file for permalinks is in the WP directory, which has be included by default in this project.
 
@@ -49,7 +55,7 @@ From here you can open another terminal window in the same directory and set an 
 alias wpcli-docker="docker exec eosense-wp wp"
 ```
 
-And you're set! You can now use WP Cli commands with,
+And you're set! You can now use WP CLI commands like the following,
 
 ```
 wpcli-docker user create test test@email.com
