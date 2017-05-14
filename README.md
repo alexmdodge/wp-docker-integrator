@@ -8,10 +8,15 @@ Getting `docker` and `docker-compose` up and running on your machine, then you c
 bash ./setup.sh
 ```
 
-From here you can set the alias,
+From here you can open another terminal window in the same directory and set an alias to,
 
 ```
 alias wpcli-docker="docker exec eosense-wp wp"
 ```
 
-And you're set!
+And you're set! You can now use WP Cli commands with,
+
+```
+wpcli-docker user create test test@email.com
+wpcli-docker post create --post_type=page --post_title='A Sample post' --post_status=future --post_date='2017-06-01 07:00:00'
+```
