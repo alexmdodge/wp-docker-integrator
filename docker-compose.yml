@@ -1,0 +1,33 @@
+version: "2.1"
+services:
+  eosense-db:
+    container_name: eosense-db
+    image: mariadb
+    ports:
+      - "8081:3306"
+    environment:
+      MYSQL_DATATBASE: wordpress
+      MYSQL_ROOT_PASSWORD: root
+    volumes:
+      - ./db:/docker-entrypoint-initdb.d
+    healthcheck:
+      test: mysqladmin -uroot -proot ping
+      interval: 20s
+      timeout: 5s
+      retries: 3
+  eosense-wp:
+    container_name: eosense-wp
+    image: tatemz/wp-cli
+    volumes:
+      - ./eosense-wp:/var/www/html
+    ports:
+      - "8080:80"
+    links:
+      - eosense-db:mysql
+    depends_on:
+      eosense-db:
+        condition: service_healthy
+    environment:
+      WORDPRESS_DB_NAME: wordpress
+      WORDPRESS_DB_PASSWORD: root
+      WORDPRESS_TABLE_PREFIX: wp_clvq_

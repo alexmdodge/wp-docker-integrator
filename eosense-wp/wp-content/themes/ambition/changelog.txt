@@ -1,0 +1,67 @@
+
+== CHANGE LOG ==
+= 1.1 =
+ - Feature - WPML Compatible
+
+= 1.0.9 =
+ - Fix - Frontpage Category issue fixed
+ - Update - Russian Language Updated. Thanks to Kirill Belotserkovskiy <k.belotserkovskiy@gmail.com> for updating the translation files
+ - Feature - Ambition now available in Germany Language. Thanks to Lucasstad <claudio.schnelldasilva@manroland-web.com> for providing us with the translation files.
+
+= 1.0.8 =
+ - Update - html5 updated to version 3.7.3
+ - Update - Genericons updated to version 3.4.1
+
+= 1.0.7 =
+- Feature - Ambition now available in Russian Language. Thanks to Kirill Belotserkovskiy <k.belotserkovskiy@gmail.com>  for providing us with the translation files.
+
+= 1.0.6 =
+- Fix - SEO issue fixed in header title while set to latest post
+- Fix - Multiple H1 tag in entry-title replaced to H2 tag
+
+= 1.0.5 =
+- Fix - Heading tag placement issue fixed for site-title text
+
+= 1.0.4 =
+- Update - Heading tag placement fixed for better SEO
+- Fix - Minor space fix for main navigation
+- Fix - Logo display issue fixed in smaller devices
+
+= 1.0.3 =
+ - Fix - bbPress comment edit/ some minor issue fixed
+ - Update - __construct() added for decrepted notice for WordPress 4.3
+ - Update - Some CSS added to support contact form 7
+ - Update - pot file updated
+
+= 1.0.2 =
+ - Feature - bbPress compatible
+ - Fix - Undefined index fixed for featured page
+ - Fix - Content width information corrected
+ - Update - Minor CSS Update
+
+= 1.0.1 =
+ - Fix - Navigation issue fixed for small devices
+ - Fix - Text domain name changed to ambition
+ - Fix - Customizer settings managed
+ - Fix - File/ Folder name consistency
+ - Fix - Prefix added
+ - Fix - wp_register_script changed to wp_enqueue_script
+ - Fix - Google font issue fixed for SSL
+ - Fix - Typography entities translation fixed
+ - Fix - Heading tag added for featured title
+ - Fix - Duplicates function removed
+ - Fix - Clearfix functions fixed
+ - Fix - Footer links issue fixed using sprintf
+ - Fix - Textarea customizer control removed
+ - Fix - Double Featured Image removed from single post content
+ - Fix - Escape all unknown variables
+ - Fix - Loading Scripts on specific page only
+ - Fix - Unwanted Pages and Script removed
+ - Fix - wp_customize_url used instead of home_url
+ - Fix - Search form/ Video/ Comment form display issue fixed
+ - Update - POT file Updated
+ - Update - html5 unminified version added
+ - Update - Prefixing: custom hooks added in widgets
+
+= 1.0 =
+ - Initial Release

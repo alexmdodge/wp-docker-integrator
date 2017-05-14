@@ -1,0 +1,40 @@
+<wpml-config>
+  <admin-texts>
+    <key name="ambition_theme_settings">
+      <key name="ambition_secondary_text"/>
+      <key name="ambition_excerpt_text"/>
+      <key name="ambition_fott_edit"/>
+      <key name="ambition_location"/>
+      <key name="link_text1"/>
+      <key name="link_text2"/>
+      <key name="link_text3"/>
+      <key name="link_text4"/>
+      <key name="link_text5"/>
+      <key name="link_text6"/>
+      <key name="link_text7"/>
+      <key name="link_text8"/>
+      <key name="link_text9"/>
+      <key name="link_text10"/>
+      <key name="image_title1"/>
+      <key name="image_title2"/>
+      <key name="image_title3"/>
+      <key name="image_title4"/>
+      <key name="image_title5"/>
+      <key name="image_title6"/>
+      <key name="image_title7"/>
+      <key name="image_title8"/>
+      <key name="image_title9"/>
+      <key name="image_title10"/>
+      <key name="image_description1"/>
+      <key name="image_description2"/>
+      <key name="image_description3"/>
+      <key name="image_description4"/>
+      <key name="image_description5"/>
+      <key name="image_description6"/>
+      <key name="image_description7"/>
+      <key name="image_description8"/>
+      <key name="image_description9"/>
+      <key name="image_description10"/>
+    </key>
+  </admin-texts>
+</wpml-config>

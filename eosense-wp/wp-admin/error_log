@@ -1,0 +1,38 @@
+[09-Aug-2016 10:01:45 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/eosensec/public_html/wp-content/plugins/jetpack/modules/contact-form/grunion-contact-form.php on line 204
+[10-Aug-2016 16:49:23 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/eosensec/public_html/wp-content/plugins/jetpack/modules/contact-form/grunion-contact-form.php on line 204
+[12-Aug-2016 13:34:42 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/eosensec/public_html/wp-content/plugins/jetpack/modules/contact-form/grunion-contact-form.php on line 204
+[13-Aug-2016 16:02:15 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/eosensec/public_html/wp-content/plugins/jetpack/modules/contact-form/grunion-contact-form.php on line 204
+[16-Aug-2016 14:54:45 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/eosensec/public_html/wp-content/plugins/jetpack/modules/contact-form/grunion-contact-form.php on line 204
+[18-Aug-2016 16:58:04 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/eosensec/public_html/wp-content/plugins/jetpack/modules/contact-form/grunion-contact-form.php on line 204
+[19-Aug-2016 11:32:41 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/eosensec/public_html/wp-content/plugins/jetpack/modules/contact-form/grunion-contact-form.php on line 204
+[22-Aug-2016 15:05:24 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/eosensec/public_html/wp-content/plugins/jetpack/modules/contact-form/grunion-contact-form.php on line 204
+[24-Aug-2016 16:34:37 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/eosensec/public_html/wp-content/plugins/jetpack/modules/contact-form/grunion-contact-form.php on line 204
+[25-Aug-2016 12:49:16 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/eosensec/public_html/wp-content/plugins/jetpack/modules/contact-form/grunion-contact-form.php on line 204
+[26-Aug-2016 16:41:46 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/eosensec/public_html/wp-content/plugins/jetpack/modules/contact-form/grunion-contact-form.php on line 204
+[27-Aug-2016 14:34:39 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/eosensec/public_html/wp-content/plugins/jetpack/modules/contact-form/grunion-contact-form.php on line 204
+[28-Aug-2016 11:34:58 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/eosensec/public_html/wp-content/plugins/jetpack/modules/contact-form/grunion-contact-form.php on line 204
+[29-Aug-2016 11:53:54 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/eosensec/public_html/wp-content/plugins/jetpack/modules/contact-form/grunion-contact-form.php on line 204
+[30-Aug-2016 12:14:35 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/eosensec/public_html/wp-content/plugins/jetpack/modules/contact-form/grunion-contact-form.php on line 204
+[31-Aug-2016 16:54:30 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/eosensec/public_html/wp-content/plugins/jetpack/modules/contact-form/grunion-contact-form.php on line 204
+[01-Sep-2016 11:18:56 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/eosensec/public_html/wp-content/plugins/jetpack/modules/contact-form/grunion-contact-form.php on line 204
+[02-Sep-2016 12:54:28 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/eosensec/public_html/wp-content/plugins/jetpack/modules/contact-form/grunion-contact-form.php on line 204
+[03-Sep-2016 11:53:08 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/eosensec/public_html/wp-content/plugins/jetpack/modules/contact-form/grunion-contact-form.php on line 204
+[15-Sep-2016 17:40:15 UTC] PHP Warning:  Illegal string offset 'google' in /home/eosensec/public_html/wp-content/plugins/jetpack/modules/verification-tools/blog-verification-tools.php on line 104
+[15-Sep-2016 17:40:15 UTC] PHP Warning:  Illegal string offset 'bing' in /home/eosensec/public_html/wp-content/plugins/jetpack/modules/verification-tools/blog-verification-tools.php on line 104
+[15-Sep-2016 17:40:15 UTC] PHP Warning:  Illegal string offset 'pinterest' in /home/eosensec/public_html/wp-content/plugins/jetpack/modules/verification-tools/blog-verification-tools.php on line 104
+[15-Sep-2016 17:43:22 UTC] PHP Warning:  Illegal string offset 'google' in /home/eosensec/public_html/wp-content/plugins/jetpack/modules/verification-tools/blog-verification-tools.php on line 104
+[15-Sep-2016 17:43:22 UTC] PHP Warning:  Illegal string offset 'bing' in /home/eosensec/public_html/wp-content/plugins/jetpack/modules/verification-tools/blog-verification-tools.php on line 104
+[15-Sep-2016 17:43:22 UTC] PHP Warning:  Illegal string offset 'pinterest' in /home/eosensec/public_html/wp-content/plugins/jetpack/modules/verification-tools/blog-verification-tools.php on line 104
+[15-Sep-2016 17:51:52 UTC] PHP Warning:  Illegal string offset 'google' in /home/eosensec/public_html/wp-content/plugins/jetpack/modules/verification-tools/blog-verification-tools.php on line 104
+[15-Sep-2016 17:51:52 UTC] PHP Warning:  Illegal string offset 'bing' in /home/eosensec/public_html/wp-content/plugins/jetpack/modules/verification-tools/blog-verification-tools.php on line 104
+[15-Sep-2016 17:51:52 UTC] PHP Warning:  Illegal string offset 'pinterest' in /home/eosensec/public_html/wp-content/plugins/jetpack/modules/verification-tools/blog-verification-tools.php on line 104
+[22-Sep-2016 15:52:00 UTC] PHP Warning:  simplexml_load_string(): Entity: line 2: parser error : Extra content at the end of the document in /home/eosensec/public_html/wp-content/plugins/insert-headers-and-footers/_modules/dashboard/dashboard.php on line 51
+[22-Sep-2016 15:52:00 UTC] PHP Warning:  simplexml_load_string(): &lt;b&gt;Warning&lt;/b&gt;:  Cannot modify header information - headers already sent by (out in /home/eosensec/public_html/wp-content/plugins/insert-headers-and-footers/_modules/dashboard/dashboard.php on line 51
+[22-Sep-2016 15:52:00 UTC] PHP Warning:  simplexml_load_string(): ^ in /home/eosensec/public_html/wp-content/plugins/insert-headers-and-footers/_modules/dashboard/dashboard.php on line 51
+[22-Sep-2016 15:52:00 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/eosensec/public_html/wp-content/plugins/insert-headers-and-footers/_modules/dashboard/views/dashboard.php on line 11
+[23-Sep-2016 10:49:56 UTC] PHP Warning:  simplexml_load_string(): Entity: line 2: parser error : Extra content at the end of the document in /home/eosensec/public_html/wp-content/plugins/insert-headers-and-footers/_modules/dashboard/dashboard.php on line 51
+[23-Sep-2016 10:49:56 UTC] PHP Warning:  simplexml_load_string(): &lt;b&gt;Warning&lt;/b&gt;:  Cannot modify header information - headers already sent by (out in /home/eosensec/public_html/wp-content/plugins/insert-headers-and-footers/_modules/dashboard/dashboard.php on line 51
+[23-Sep-2016 10:49:56 UTC] PHP Warning:  simplexml_load_string(): ^ in /home/eosensec/public_html/wp-content/plugins/insert-headers-and-footers/_modules/dashboard/dashboard.php on line 51
+[23-Sep-2016 10:49:56 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/eosensec/public_html/wp-content/plugins/insert-headers-and-footers/_modules/dashboard/views/dashboard.php on line 11
+[04-Jan-2017 05:57:08 America/Chicago] PHP Fatal error:  Call to undefined function __() in /home/eosensec/public_html/wp-admin/menu.php on line 23
+[10-Feb-2017 15:35:46 UTC] PHP Warning:  Error while sending QUERY packet. PID=946280 in /home/eosensec/public_html/wp-includes/wp-db.php on line 1873

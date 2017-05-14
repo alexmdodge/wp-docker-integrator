@@ -1,0 +1,4 @@
+[19-Oct-2016 19:17:54 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home/eosensec/public_html/wp-content/themes/twentyfifteen/404.php on line 10
+[28-Dec-2016 00:51:42 America/Chicago] PHP Fatal error:  Call to undefined function get_template_directory() in /home/eosensec/public_html/wp-content/themes/twentyfifteen/functions.php on line 41
+[03-Mar-2017 18:32:07 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home/eosensec/public_html/wp-content/themes/twentyfifteen/404.php on line 10
+[03-Mar-2017 23:48:36 America/Chicago] PHP Fatal error:  Call to undefined function get_template_directory() in /home/eosensec/public_html/wp-content/themes/twentyfifteen/functions.php on line 41

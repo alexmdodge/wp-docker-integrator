@@ -1,0 +1,26 @@
+== CHANGE LOG ==
+= 1.0.6 =
+ - Feature - WPML Compatible
+
+= 1.0.5 =
+ - Fix - Frontpage Category issue fixed
+
+= 1.0.4 =
+ - Update - html5 updated to version 3.7.3
+ - Update - Genericons updated to version 3.4.1
+
+= 1.0.3 =
+ - Fix - Our Team Template clearfix issue fixed
+ 
+= 1.0.2 =
+ - Update - Heading tag placment fixed for better SEO
+ - Fix - Default google font loading issue fixed
+
+= 1.0.1 =
+ - Fix - Google/ font-weight 700 added
+ - Fix - Logo display issue fixed in smaller devices
+ - Feature - Dropdown menu background color option added
+ - Remove - According to WordPress.org policy Revolution Slider Plugin removed because of non GPL code
+
+= 1.0 =
+ - Initial Release

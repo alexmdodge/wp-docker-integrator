@@ -1,0 +1,781 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ambition 1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-07-30 12:04+0530\n"
+"PO-Revision-Date: Fri Aug 28 2015 10:50:22 GMT+0200\n"
+"Last-Translator: admin <claudio.schnelldasilva@manroland-web.com>\n"
+"Language-Team: Theme Horse <support@themehorse.com>\n"
+"Language: German\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: _:1;gettext:1;dgettext:2;ngettext:1,2;dngettext:2,3;"
+"__:1;_e:1;_c:1;_n:1,2;_n_noop:1,2;_nc:1,2;__ngettext:1,2;__ngettext_noop:1,2;"
+"_x:1,2c;_ex:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_n_js:1,2;_nx_js:1,2,3c;"
+"esc_attr__:1;esc_html__:1;esc_attr_e:1;esc_html_e:1;esc_attr_x:1,2c;"
+"esc_html_x:1,2c;comments_number_link:2,3;t:1;st:1;trans:1;transChoice:1,2\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Loco-Target-Locale: de_DE\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#: 404.php:16
+msgid "Error 404-Page NOT Found"
+msgstr "Fehler 404 - Die gesuchte Seite konnte leider nicht gefunden werden"
+
+#: 404.php:22
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for."
+msgstr "Es sieht so aus, als könnten wir den gesuchten Inhalt nicht finden."
+
+#: 404.php:26
+msgid "This might be because:"
+msgstr "Das könnte an folgendem liegen:"
+
+#: 404.php:30
+msgid ""
+"You have typed the web address incorrectly, or the page you were looking for "
+"may have been moved, updated or deleted."
+msgstr ""
+"Wahrscheinlich haben Sie die URL falsch eingegeben oder die Seite, die "
+"suchen, wurde verschoben, aktualisiert oder gelöscht."
+
+#: 404.php:34
+msgid "Please try the following instead:"
+msgstr "Das könnte an folgendem liegen:"
+
+#: 404.php:38
+msgid ""
+"Check for a mis-typed URL error, then press the refresh button on your "
+"browser."
+msgstr ""
+"Überprüfen Sie, ob Sie die URL falsch geschrieben haben und aktualisieren "
+"Sie anschließend die Seite."
+
+#: comments.php:29
+#, php-format
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgstr "Ein Kommentar zu &ldquo;%2$s&rdquo;"
+
+#: comments.php:32
+#, php-format
+msgid "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr "%1$s Kommentare zu &ldquo;%2$s&rdquo;"
+
+#: comments.php:49
+msgid "Comment navigation"
+msgstr "Kommentarnavigation"
+
+#: comments.php:53
+msgid "&larr; Older Comments"
+msgstr "&larr; Ältere Kommentare"
+
+#: comments.php:57
+msgid "Newer Comments &rarr;"
+msgstr "Neuere Kommentare &rarr;"
+
+#: comments.php:68
+msgid "Comments are closed."
+msgstr "Die Kommentare wurden geschlossen."
+
+#: content-featured-post.php:19
+#: content-featured-post.php:21
+msgid "Read More"
+msgstr "&#8594; Mehr"
+
+#: functions.php:131
+msgid "Primary Navigation"
+msgstr "Hauptnavigation"
+
+#: functions.php:132
+msgid "Social Navigation"
+msgstr "Navigation für Soziale Netzwerke"
+
+#: searchform.php:11
+#: searchform.php:12
+#: searchform.php:13
+msgid "Search"
+msgstr "Suchen"
+
+#: inc/admin/ambition-metaboxes.php:18
+msgid "Below setting will not reflect on Business Template"
+msgstr "Die Einstellungen unterhalb wirken sich nicht auf das Business Template aus"
+
+#: inc/admin/ambition-metaboxes.php:24
+msgid "Select layout for this specific Post only"
+msgstr "Wählen Sie ein Layout für diesen einzelnen Post aus"
+
+#: inc/admin/ambition-metaboxes.php:35
+msgid "Default Layout Set in"
+msgstr "Standardlayout, festgelegt im"
+
+#: inc/admin/ambition-metaboxes.php:35
+msgid "Customizer"
+msgstr "Customizer"
+
+#: inc/admin/ambition-metaboxes.php:41
+msgid "No sidebar"
+msgstr "Keine Seitenleiste"
+
+#: inc/admin/ambition-metaboxes.php:46
+msgid "No sidebar, Full Width"
+msgstr "Keine Seitenleiste, volle Breite"
+
+#: inc/admin/ambition-metaboxes.php:52
+msgid "Left sidebar"
+msgstr "Seitenleiste links"
+
+#: inc/admin/ambition-metaboxes.php:57
+msgid "Right sidebar"
+msgstr "Seitenleiste rechts"
+
+#: inc/footer-info/ambition-footer-info.php:35
+msgid "Proudly Powered by: "
+msgstr "Stolz präsentiert von:"
+
+#: inc/footer-info/ambition-footer-info.php:35
+#: inc/footer-info/ambition-footer-info.php:43
+#, php-format
+msgid "%s"
+msgstr "%s"
+
+#: inc/footer-info/ambition-footer-info.php:43
+#, fuzzy
+msgid "Theme by: "
+msgstr ""
+
+#: inc/functions/customizer.php:20
+#: inc/functions/customizer.php:21
+msgid "Donate"
+msgstr "Spenden"
+
+#: inc/functions/customizer.php:23
+#, fuzzy
+msgid "Review Ambition"
+msgstr ""
+
+#: inc/functions/customizer.php:24
+#, fuzzy
+msgid "Rate Ambition"
+msgstr ""
+
+#: inc/functions/customizer.php:26
+msgid "Ambition Theme Instructions"
+msgstr ""
+
+#: inc/functions/customizer.php:27
+msgid "Theme Instructions"
+msgstr ""
+
+#: inc/functions/customizer.php:29
+#: inc/functions/customizer.php:30
+msgid "Support Forum"
+msgstr ""
+
+#: inc/functions/customizer.php:32
+msgid "Ambition Demo"
+msgstr ""
+
+#: inc/functions/customizer.php:33
+msgid "View Demo"
+msgstr ""
+
+#: inc/functions/customizer.php:40
+#: inc/functions/customizer.php:41
+#: inc/functions/customizer.php:562
+msgid "Upgrade to Ambition Pro"
+msgstr ""
+
+#: inc/functions/customizer.php:42
+msgid ""
+"to get more aditional features like (WooCommerce, Advanced Slider, Color "
+"Options, Typography Options and many more.)"
+msgstr ""
+
+#: inc/functions/customizer.php:75
+msgid "Ambition Theme Options"
+msgstr ""
+
+#: inc/functions/customizer.php:79
+msgid "What's new on Ambition Pro?"
+msgstr ""
+
+#: inc/functions/customizer.php:92
+#: inc/functions/customizer.php:113
+msgid "Ambition Upgrade"
+msgstr ""
+
+#: inc/functions/customizer.php:99
+msgid "Ambition Support"
+msgstr ""
+
+#: inc/functions/customizer.php:100
+msgid "Hey! Buy us a beer and we shall come with new features and update. "
+msgstr ""
+
+#: inc/functions/customizer.php:122
+msgid "Site Layout"
+msgstr "Seitenlayout"
+
+#: inc/functions/customizer.php:138
+msgid "Wide Layout"
+msgstr "Weites Layout"
+
+#: inc/functions/customizer.php:139
+msgid "Narrow Layout"
+msgstr "Schmales Layout"
+
+#: inc/functions/customizer.php:144
+msgid "Content Layout"
+msgstr "Inhaltslayout"
+
+#: inc/functions/customizer.php:145
+msgid "Make sure that you have not set the layout from specific page"
+msgstr ""
+"Versichern Sie sich, dass Sie das Layout nicht auf einer bestimmten Seite "
+"festgelegt haben"
+
+#: inc/functions/customizer.php:161
+#: inc/widgets/ambition-widgets.php:28
+msgid "Right Sidebar"
+msgstr "Seitenleiste rechts"
+
+#: inc/functions/customizer.php:162
+#: inc/widgets/ambition-widgets.php:18
+msgid "Left Sidebar"
+msgstr "Seitenleiste links"
+
+#: inc/functions/customizer.php:163
+msgid "No Sidebar"
+msgstr "Keine Seitenleiste"
+
+#: inc/functions/customizer.php:164
+msgid "No Sidebar Full Width"
+msgstr "Keine Seitenleiste, volle Breite"
+
+#: inc/functions/customizer.php:169
+msgid "Page Title Background Image"
+msgstr "Hintegrundbild für den Seitentitel"
+
+#: inc/functions/customizer.php:181
+msgid "Check to disable"
+msgstr "Zum deaktivieren klicken"
+
+#: inc/functions/customizer.php:204
+msgid "Header Options"
+msgstr ""
+
+#: inc/functions/customizer.php:215
+msgid "Check to disable Search Form from Header"
+msgstr ""
+
+#: inc/functions/customizer.php:230
+msgid "Header Logo"
+msgstr ""
+
+#: inc/functions/customizer.php:243
+msgid "Display"
+msgstr "Anzeigen"
+
+#: inc/functions/customizer.php:249
+msgid "Header Text Only"
+msgstr ""
+
+#: inc/functions/customizer.php:250
+msgid "Header Logo Only"
+msgstr ""
+
+#: inc/functions/customizer.php:251
+msgid "Disable Both"
+msgstr ""
+
+#: inc/functions/customizer.php:256
+msgid "Favicon"
+msgstr "Favicon"
+
+#: inc/functions/customizer.php:267
+msgid "Check to enable Favicon"
+msgstr ""
+
+#: inc/functions/customizer.php:289
+msgid "Web Clip Icon"
+msgstr ""
+
+#: inc/functions/customizer.php:300
+msgid "Check to enable Web Clip Icon"
+msgstr ""
+
+#: inc/functions/customizer.php:322
+msgid "Custom CSS"
+msgstr ""
+
+#: inc/functions/customizer.php:323
+msgid "This CSS will overwrite the CSS of style.css file."
+msgstr ""
+
+#: inc/functions/customizer.php:341
+msgid "Home Page Blog Category Setting"
+msgstr ""
+
+#: inc/functions/customizer.php:342
+msgid ""
+"Only posts that belong to the categories selected here will be displayed on "
+"the front page. ( You may select multiple categories by holding down the "
+"CTRL key. ) "
+msgstr ""
+
+#: inc/functions/customizer.php:357
+msgid "Front page posts categories"
+msgstr ""
+
+#: inc/functions/customizer.php:371
+msgid "Check to Default Settings ( Uncheck to show effect on front page )"
+msgstr ""
+
+#: inc/functions/customizer.php:378
+#: inc/functions/featured-content.php:343
+msgid "Featured Content"
+msgstr ""
+
+#: inc/functions/customizer.php:379
+#: inc/functions/featured-content.php:344
+#, php-format
+msgid ""
+"Use a <a href=\"%1$s\">tag</a> to feature your posts. If no posts match the "
+"tag, <a href=\"%2$s\">sticky posts</a> will be displayed instead."
+msgstr ""
+
+#: inc/functions/customizer.php:380
+#: inc/functions/featured-content.php:345
+#: inc/functions/featured-content.php:354
+#: inc/functions/featured-content.php:410
+msgid "featured"
+msgstr ""
+
+#: inc/functions/customizer.php:388
+msgid "Featured Content Setting"
+msgstr ""
+
+#: inc/functions/customizer.php:400
+msgid "Check to disable Slider"
+msgstr ""
+
+#: inc/functions/customizer.php:413
+msgid "Slider Secondary Button Text"
+msgstr ""
+
+#: inc/functions/customizer.php:426
+msgid "Slider Secondary Url"
+msgstr ""
+
+#: inc/functions/customizer.php:438
+msgid "Slider Content"
+msgstr ""
+
+#: inc/functions/customizer.php:444
+msgid "ON"
+msgstr "An"
+
+#: inc/functions/customizer.php:445
+msgid "OFF"
+msgstr "Aus"
+
+#: inc/functions/customizer.php:455
+msgid "Transition Effect"
+msgstr ""
+
+#: inc/functions/customizer.php:460
+msgid "Fade"
+msgstr ""
+
+#: inc/functions/customizer.php:461
+msgid "Wipe"
+msgstr ""
+
+#: inc/functions/customizer.php:462
+msgid "Scroll Up"
+msgstr ""
+
+#: inc/functions/customizer.php:463
+msgid "Scroll Down"
+msgstr ""
+
+#: inc/functions/customizer.php:464
+msgid "Scroll Left"
+msgstr ""
+
+#: inc/functions/customizer.php:465
+msgid "Scroll Right"
+msgstr ""
+
+#: inc/functions/customizer.php:466
+msgid "Blind X"
+msgstr ""
+
+#: inc/functions/customizer.php:467
+msgid "Blind Y"
+msgstr ""
+
+#: inc/functions/customizer.php:468
+msgid "Blind Z"
+msgstr ""
+
+#: inc/functions/customizer.php:469
+msgid "Cover"
+msgstr ""
+
+#: inc/functions/customizer.php:470
+msgid "Shuffle"
+msgstr ""
+
+#: inc/functions/customizer.php:480
+msgid "Transition Delay"
+msgstr ""
+
+#: inc/functions/customizer.php:492
+msgid "Transition Duration"
+msgstr ""
+
+#: inc/functions/featured-content.php:366
+msgid "Tag Name"
+msgstr ""
+
+#: inc/functions/featured-content.php:371
+msgid "Don&rsquo;t display tag on front end."
+msgstr ""
+
+#: inc/functions/functions.php:325
+msgid "on"
+msgstr ""
+
+#: inc/structure/content-extensions.php:189
+#: inc/structure/content-extensions.php:323
+msgid "No Comments"
+msgstr "Keine Kommentare"
+
+#: inc/structure/content-extensions.php:189
+#: inc/structure/content-extensions.php:323
+msgid "1 Comment"
+msgstr "1 Kommentar"
+
+#: inc/structure/content-extensions.php:189
+#: inc/structure/content-extensions.php:323
+#, c-format
+msgid "% Comments"
+msgstr "& Kommentare"
+
+#: inc/structure/content-extensions.php:189
+#: inc/structure/content-extensions.php:323
+msgid "Comments Off"
+msgstr "Kommentare deaktiviert"
+
+#: inc/structure/content-extensions.php:210
+msgid ", "
+msgstr ","
+
+#: inc/structure/content-extensions.php:231
+#: inc/structure/content-extensions.php:282
+#: inc/structure/content-extensions.php:369
+#: inc/structure/content-extensions.php:410
+msgid "No Posts Found."
+msgstr "Es wurden leider keine Beiträge gefunden."
+
+#: inc/structure/content-extensions.php:262
+#: inc/structure/content-extensions.php:333
+msgid "Pages:"
+msgstr "Seiten:"
+
+#: inc/structure/content-extensions.php:345
+msgid " "
+msgstr " "
+
+#: inc/structure/content-extensions.php:433
+msgid "&laquo; Previous"
+msgstr "&laquo; Zurück"
+
+#: inc/structure/content-extensions.php:436
+msgid "Next &raquo;"
+msgstr "Weiter &raquo;"
+
+#: inc/structure/content-extensions.php:455
+msgid "&larr; Previous"
+msgstr "&larr; Zurück"
+
+#: inc/structure/content-extensions.php:458
+msgid "Next &rarr;"
+msgstr "Weiter &rarr;"
+
+#: inc/structure/content-extensions.php:467
+msgid "&larr;"
+msgstr "&larr;"
+
+#: inc/structure/content-extensions.php:470
+msgid "&rarr;"
+msgstr "&rarr;"
+
+#: inc/structure/content-extensions.php:506
+msgid "Pingback:"
+msgstr "Pingback:"
+
+#: inc/structure/content-extensions.php:508
+msgid "(Edit)"
+msgstr "(Editieren)"
+
+#: inc/structure/content-extensions.php:524
+msgid "Post author"
+msgstr "Beitragsautor"
+
+#: inc/structure/content-extensions.php:530
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: inc/structure/content-extensions.php:536
+msgid "Your comment is awaiting moderation."
+msgstr "Ihr Kommentar muss noch genehmigt werden."
+
+#: inc/structure/content-extensions.php:541
+msgid "Edit"
+msgstr "Editieren"
+
+#: inc/structure/content-extensions.php:544
+msgid "Reply <span>&darr;</span>"
+msgstr "Antworten <span>&darr;</span>"
+
+#: inc/structure/footer-extensions.php:57
+msgid "&copy;"
+msgstr "&copy;"
+
+#: inc/structure/footer-extensions.php:75
+msgid "Go to Top"
+msgstr "Zum Seitenanfang springen"
+
+#: inc/structure/header-extensions.php:103
+msgid "Responsive Menu"
+msgstr ""
+
+#: inc/structure/header-extensions.php:206
+msgid "Page NOT Found"
+msgstr "Seite nicht gefunden"
+
+#: inc/structure/header-extensions.php:208
+msgid "Search Results"
+msgstr "Suchergebnisse"
+
+#: inc/widgets/ambition-widgets.php:20
+msgid "Shows widgets at Left side."
+msgstr ""
+
+#: inc/widgets/ambition-widgets.php:30
+msgid "Shows widgets at Right side."
+msgstr ""
+
+#: inc/widgets/ambition-widgets.php:38
+msgid "Business Page Section"
+msgstr ""
+
+#: inc/widgets/ambition-widgets.php:40
+msgid ""
+"Shows widgets on Business Page Template. Suitable widget: TH: Featured Page, "
+"TH: Featured Recent Work, TH: Testimonial, TH: Services, TH: PromoBox"
+msgstr ""
+
+#: inc/widgets/ambition-widgets.php:48
+msgid "Contact Page Sidebar"
+msgstr ""
+
+#: inc/widgets/ambition-widgets.php:50
+msgid "Shows widgets on Contact Page Template."
+msgstr ""
+
+#: inc/widgets/ambition-widgets.php:61
+msgid "Footer - Column1"
+msgstr ""
+
+#: inc/widgets/ambition-widgets.php:63
+msgid "Shows widgets at footer Column 1."
+msgstr ""
+
+#: inc/widgets/ambition-widgets.php:71
+msgid "Footer - Column2"
+msgstr ""
+
+#: inc/widgets/ambition-widgets.php:73
+msgid "Shows widgets at footer Column 2."
+msgstr ""
+
+#: inc/widgets/ambition-widgets.php:81
+msgid "Footer - Column3"
+msgstr ""
+
+#: inc/widgets/ambition-widgets.php:83
+msgid "Shows widgets at footer Column 3."
+msgstr ""
+
+#: inc/widgets/ambition-widgets.php:91
+msgid "Footer - Column4"
+msgstr ""
+
+#: inc/widgets/ambition-widgets.php:93
+msgid "Shows widgets at footer Column 4."
+msgstr ""
+
+#: inc/widgets/ambition-widgets.php:121
+msgid "Display Featured Page ( Business Layout )"
+msgstr ""
+
+#: inc/widgets/ambition-widgets.php:127
+msgid "TH: Featured Page"
+msgstr ""
+
+#: inc/widgets/ambition-widgets.php:147
+msgid "Display your Featured Page Content:"
+msgstr ""
+
+#: inc/widgets/ambition-widgets.php:149
+msgid "Left"
+msgstr "Links"
+
+#: inc/widgets/ambition-widgets.php:152
+msgid "Right"
+msgstr "Rechts"
+
+#: inc/widgets/ambition-widgets.php:155
+msgid "Middle"
+msgstr "Mitte"
+
+#: inc/widgets/ambition-widgets.php:159
+msgid "Description:"
+msgstr "Beschreibung:"
+
+#: inc/widgets/ambition-widgets.php:168
+#: inc/widgets/ambition-widgets.php:358
+#: inc/widgets/ambition-widgets.php:609
+msgid "Page"
+msgstr "Seite"
+
+#: inc/widgets/ambition-widgets.php:227
+#: inc/widgets/ambition-widgets.php:438
+msgid "Read more"
+msgstr "Mehr lesen"
+
+#: inc/widgets/ambition-widgets.php:262
+msgid "Displays Custom Tag Cloud"
+msgstr ""
+
+#: inc/widgets/ambition-widgets.php:268
+msgid "TH: Custom Tag Cloud"
+msgstr ""
+
+#: inc/widgets/ambition-widgets.php:316
+#: inc/widgets/ambition-widgets.php:599
+#: inc/widgets/ambition-widgets.php:748
+msgid "Title:"
+msgstr "Titel:"
+
+#: inc/widgets/ambition-widgets.php:336
+msgid "Display Services ( Business Layout )"
+msgstr ""
+
+#: inc/widgets/ambition-widgets.php:342
+msgid "TH: Services"
+msgstr ""
+
+#: inc/widgets/ambition-widgets.php:469
+msgid "Display PromoBox ( Business Layout )"
+msgstr ""
+
+#: inc/widgets/ambition-widgets.php:475
+msgid "TH: PromoBox"
+msgstr ""
+
+#: inc/widgets/ambition-widgets.php:529
+msgid "Background Image:"
+msgstr ""
+
+#: inc/widgets/ambition-widgets.php:538
+msgid "Primary Promotional:"
+msgstr ""
+
+#: inc/widgets/ambition-widgets.php:542
+msgid "Secondary Promotional"
+msgstr ""
+
+#: inc/widgets/ambition-widgets.php:546
+msgid "Redirect Text:"
+msgstr "Weiterleitungs-Text:"
+
+#: inc/widgets/ambition-widgets.php:552
+msgid "Redirect Url:"
+msgstr "Weiterleitungs-URL:"
+
+#: inc/widgets/ambition-widgets.php:573
+msgid ""
+"Use this widget to show recent work, portfolio or any pages as your wish ( "
+"Business Layout )"
+msgstr ""
+
+#: inc/widgets/ambition-widgets.php:579
+msgid "TH: Featured Recent Work"
+msgstr ""
+
+#: inc/widgets/ambition-widgets.php:603
+msgid "Description"
+msgstr "Beschreibung"
+
+#: inc/widgets/ambition-widgets.php:711
+msgid "Display Testimonial ( Business Layout ) recommendation size ( 168 * 168 )"
+msgstr ""
+
+#: inc/widgets/ambition-widgets.php:717
+msgid "TH: Testimonial"
+msgstr ""
+
+#: inc/widgets/ambition-widgets.php:768
+msgid "Testimonial Description "
+msgstr ""
+
+#: inc/widgets/ambition-widgets.php:773
+msgid "Add Image"
+msgstr "Bild hinzufügen"
+
+#: inc/widgets/ambition-widgets.php:777
+msgid "Name "
+msgstr "Name"
+
+#: inc/widgets/ambition-widgets.php:783
+msgid "Designation "
+msgstr ""
+
+#: inc/widgets/ambition-widgets.php:789
+msgid "Company Name "
+msgstr "Firmenname"
+
+#: inc/widgets/ambition-widgets.php:795
+msgid "Company Link "
+msgstr "Firmenlink"
+
+#: inc/widgets/ambition-widgets.php:892
+msgid "Display Featured Clients/ Products ( Business Layout )"
+msgstr ""
+
+#: inc/widgets/ambition-widgets.php:908
+msgid ""
+"Note: Recommended size for the image is 400px (width) and 150px (height). If "
+"you want more image adding fields then first enter the number and click on "
+"Save, this will allow you more image adding fields"
+msgstr ""
+
+#: inc/widgets/ambition-widgets.php:912
+msgid "Image Title:"
+msgstr "Bild Titel:"
+
+#: inc/widgets/ambition-widgets.php:918
+msgid "Number of Images:"
+msgstr "Anzahl Bilder:"
+
+#: inc/widgets/ambition-widgets.php:932
+msgid "Redirect Link:"
+msgstr "Link für die Weiterleitung:"

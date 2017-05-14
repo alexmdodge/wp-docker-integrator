@@ -1,0 +1,770 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ambition 1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-07-30 12:04+0530\n"
+"PO-Revision-Date: 2015-12-09 02:35+0600\n"
+"Last-Translator: kirill belotserkovskiy <k.belotserkovskiy@gmail.com>\n"
+"Language-Team: Theme Horse <support@themehorse.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e;esc_attr__;esc_attr_e;_x;_n;esc_html__;"
+"esc_html_e\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:16
+msgid "Error 404-Page NOT Found"
+msgstr "Ошибка 404, страница не найдена"
+
+#: 404.php:22
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for."
+msgstr "Не получается найти то, что вы ищите"
+
+#: 404.php:26
+msgid "This might be because:"
+msgstr "Как так вышло?"
+
+#: 404.php:30
+msgid ""
+"You have typed the web address incorrectly, or the page you were looking for "
+"may have been moved, updated or deleted."
+msgstr ""
+"Может вы ввели неправильный адрес, а может мы переместили или удалили "
+"страницу."
+
+#: 404.php:34
+msgid "Please try the following instead:"
+msgstr "Что делать?"
+
+#: 404.php:38
+msgid ""
+"Check for a mis-typed URL error, then press the refresh button on your "
+"browser."
+msgstr ""
+"Проверьте правильно ли указали адрес и нажмите Энтер. Если вы снова "
+"очутились тут — пользуйтесь поиском."
+
+#: comments.php:29
+#, php-format
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgstr "Один комментарий к &ldquo;%2$s&rdquo;"
+
+#: comments.php:32
+#, php-format
+msgid "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr "%1$s комментариев к &ldquo;%2$s&rdquo;"
+
+#: comments.php:49
+msgid "Comment navigation"
+msgstr "Навигация по комментариям"
+
+#: comments.php:53
+msgid "&larr; Older Comments"
+msgstr "&larr; Предыдущие"
+
+#: comments.php:57
+msgid "Newer Comments &rarr;"
+msgstr "Следующие &rarr;"
+
+#: comments.php:68
+msgid "Comments are closed."
+msgstr "Не комментируйте тут!"
+
+#: content-featured-post.php:19 content-featured-post.php:21
+msgid "Read More"
+msgstr "Читать далее"
+
+#: functions.php:131
+msgid "Primary Navigation"
+msgstr "Основное меню"
+
+#: functions.php:132
+msgid "Social Navigation"
+msgstr "Меню соцсетей"
+
+#: searchform.php:11 searchform.php:12 searchform.php:13
+msgid "Search"
+msgstr "Поиск"
+
+#: inc/admin/ambition-metaboxes.php:18
+msgid "Below setting will not reflect on Business Template"
+msgstr "Эти настройки не затронут главную страницу"
+
+#: inc/admin/ambition-metaboxes.php:24
+msgid "Select layout for this specific Post only"
+msgstr "Выберите разметку"
+
+#: inc/admin/ambition-metaboxes.php:35
+msgid "Default Layout Set in"
+msgstr "Разметка по умолчанию"
+
+#: inc/admin/ambition-metaboxes.php:35
+msgid "Customizer"
+msgstr "Настройка"
+
+#: inc/admin/ambition-metaboxes.php:41
+msgid "No sidebar"
+msgstr "Без сайдбара"
+
+#: inc/admin/ambition-metaboxes.php:46
+msgid "No sidebar, Full Width"
+msgstr "Без сайдбара, во всю ширь"
+
+#: inc/admin/ambition-metaboxes.php:52
+msgid "Left sidebar"
+msgstr "Сайдбар слева"
+
+#: inc/admin/ambition-metaboxes.php:57
+msgid "Right sidebar"
+msgstr "Сайдбар справа"
+
+#: inc/footer-info/ambition-footer-info.php:35
+msgid "Proudly Powered by: "
+msgstr "Работает на "
+
+#: inc/footer-info/ambition-footer-info.php:35
+#: inc/footer-info/ambition-footer-info.php:43
+#, php-format
+msgid "%s"
+msgstr "%s"
+
+#: inc/footer-info/ambition-footer-info.php:43
+msgid "Theme by: "
+msgstr "Тему сделали в "
+
+#: inc/functions/customizer.php:20 inc/functions/customizer.php:21
+msgid "Donate"
+msgstr "Сделать пожертвование"
+
+#: inc/functions/customizer.php:23
+msgid "Review Ambition"
+msgstr "Оставить отзыв"
+
+#: inc/functions/customizer.php:24
+msgid "Rate Ambition"
+msgstr "Оценить тему"
+
+#: inc/functions/customizer.php:26
+msgid "Ambition Theme Instructions"
+msgstr "Руководство к теме"
+
+#: inc/functions/customizer.php:27
+msgid "Theme Instructions"
+msgstr "Руководство к теме"
+
+#: inc/functions/customizer.php:29 inc/functions/customizer.php:30
+msgid "Support Forum"
+msgstr "Форум поддержки"
+
+#: inc/functions/customizer.php:32
+msgid "Ambition Demo"
+msgstr "Демо"
+
+#: inc/functions/customizer.php:33
+msgid "View Demo"
+msgstr "Демо"
+
+#: inc/functions/customizer.php:40 inc/functions/customizer.php:41
+#: inc/functions/customizer.php:562
+msgid "Upgrade to Ambition Pro"
+msgstr "Купите Ambition Pro"
+
+#: inc/functions/customizer.php:42
+msgid ""
+"to get more aditional features like (WooCommerce, Advanced Slider, Color "
+"Options, Typography Options and many more.)"
+msgstr ""
+"и получите плюшки вроде WooCommerce, новых функций в слайдере, настройки "
+"цветов, типографики и другие."
+
+#: inc/functions/customizer.php:75
+msgid "Ambition Theme Options"
+msgstr "Параметры темы"
+
+#: inc/functions/customizer.php:79
+msgid "What's new on Ambition Pro?"
+msgstr "Ambition Pro"
+
+#: inc/functions/customizer.php:92 inc/functions/customizer.php:113
+msgid "Ambition Upgrade"
+msgstr "Перейти на платную версию"
+
+#: inc/functions/customizer.php:99
+msgid "Ambition Support"
+msgstr "Поддержка"
+
+#: inc/functions/customizer.php:100
+msgid "Hey! Buy us a beer and we shall come with new features and update. "
+msgstr "Псс, пацаны! Купите нам пива, а мы добавим новые фичи в тему."
+
+#: inc/functions/customizer.php:122
+msgid "Site Layout"
+msgstr "Разметка сайта"
+
+#: inc/functions/customizer.php:138
+msgid "Wide Layout"
+msgstr "Во всю ширь"
+
+#: inc/functions/customizer.php:139
+msgid "Narrow Layout"
+msgstr "Узкая"
+
+#: inc/functions/customizer.php:144
+msgid "Content Layout"
+msgstr "Разметка контента"
+
+#: inc/functions/customizer.php:145
+msgid "Make sure that you have not set the layout from specific page"
+msgstr "Убедитесь, что не установили разметку для какой-то отдельной страницы"
+
+#: inc/functions/customizer.php:161 inc/widgets/ambition-widgets.php:28
+msgid "Right Sidebar"
+msgstr "Сайдбар справа"
+
+#: inc/functions/customizer.php:162 inc/widgets/ambition-widgets.php:18
+msgid "Left Sidebar"
+msgstr "Сайдбар слева"
+
+#: inc/functions/customizer.php:163
+msgid "No Sidebar"
+msgstr "Без сайдбара"
+
+#: inc/functions/customizer.php:164
+msgid "No Sidebar Full Width"
+msgstr "Без сайдбара во всю ширь"
+
+#: inc/functions/customizer.php:169
+msgid "Page Title Background Image"
+msgstr "Фон заголовка страницы"
+
+#: inc/functions/customizer.php:181
+msgid "Check to disable"
+msgstr "Не использовать"
+
+#: inc/functions/customizer.php:204
+msgid "Header Options"
+msgstr "Параметры шапки"
+
+#: inc/functions/customizer.php:215
+msgid "Check to disable Search Form from Header"
+msgstr "Не показывать форму поиска в шапке"
+
+#: inc/functions/customizer.php:230
+msgid "Header Logo"
+msgstr "Логотип"
+
+#: inc/functions/customizer.php:243
+msgid "Display"
+msgstr "Показывать"
+
+#: inc/functions/customizer.php:249
+msgid "Header Text Only"
+msgstr "Только текст"
+
+#: inc/functions/customizer.php:250
+msgid "Header Logo Only"
+msgstr "Только логотип"
+
+#: inc/functions/customizer.php:251
+msgid "Disable Both"
+msgstr "Ничего"
+
+#: inc/functions/customizer.php:256
+msgid "Favicon"
+msgstr "Фавикон"
+
+#: inc/functions/customizer.php:267
+msgid "Check to enable Favicon"
+msgstr "Показывать фавикон"
+
+#: inc/functions/customizer.php:289
+msgid "Web Clip Icon"
+msgstr "Web Clip иконка"
+
+#: inc/functions/customizer.php:300
+msgid "Check to enable Web Clip Icon"
+msgstr "Показывать Web Clip иконку "
+
+#: inc/functions/customizer.php:322
+msgid "Custom CSS"
+msgstr "Пользовательский CSS"
+
+#: inc/functions/customizer.php:323
+msgid "This CSS will overwrite the CSS of style.css file."
+msgstr "Эти стили будут использоваться вместо таких же в style.css"
+
+#: inc/functions/customizer.php:341
+msgid "Home Page Blog Category Setting"
+msgstr "Рубрики на главной странице"
+
+#: inc/functions/customizer.php:342
+msgid ""
+"Only posts that belong to the categories selected here will be displayed on "
+"the front page. ( You may select multiple categories by holding down the "
+"CTRL key. ) "
+msgstr ""
+"Записи из отмеченных рубрик появятся на главной. Чтобы выбрать несколько "
+"рубрик, удерживайте Crtl."
+
+#: inc/functions/customizer.php:357
+msgid "Front page posts categories"
+msgstr "Записи из этих рубрик появятся на главной"
+
+#: inc/functions/customizer.php:371
+msgid "Check to Default Settings ( Uncheck to show effect on front page )"
+msgstr ""
+"Использовать настройки по умолчанию (не отмечайте чтобы изменения появились "
+"на главной)."
+
+#: inc/functions/customizer.php:378 inc/functions/featured-content.php:343
+msgid "Featured Content"
+msgstr "Рекомендованные материалы"
+
+#: inc/functions/customizer.php:379 inc/functions/featured-content.php:344
+#, php-format
+msgid ""
+"Use a <a href=\"%1$s\">tag</a> to feature your posts. If no posts match the "
+"tag, <a href=\"%2$s\">sticky posts</a> will be displayed instead."
+msgstr ""
+"Используйте <a href=\"%1$s\">метку</a> чтобы пометить записи как "
+"<em>рекомендованные</em>. Если нет записей с такой меткой, <a href=\"%2$s"
+"\">закреплённые записи</a> появятся вместо них."
+
+#: inc/functions/customizer.php:380 inc/functions/featured-content.php:345
+#: inc/functions/featured-content.php:354
+#: inc/functions/featured-content.php:410
+msgid "featured"
+msgstr "рекомендованные"
+
+#: inc/functions/customizer.php:388
+msgid "Featured Content Setting"
+msgstr "Параметры рекомендованных записей"
+
+#: inc/functions/customizer.php:400
+msgid "Check to disable Slider"
+msgstr "Не показывать слайдер"
+
+#: inc/functions/customizer.php:413
+msgid "Slider Secondary Button Text"
+msgstr "Текст на второй кнопке слайдера"
+
+#: inc/functions/customizer.php:426
+msgid "Slider Secondary Url"
+msgstr "Ссылка со второй кнопки"
+
+#: inc/functions/customizer.php:438
+msgid "Slider Content"
+msgstr "Содержимое слайдера"
+
+#: inc/functions/customizer.php:444
+msgid "ON"
+msgstr "Вкл."
+
+#: inc/functions/customizer.php:445
+msgid "OFF"
+msgstr "Выкл."
+
+#: inc/functions/customizer.php:455
+msgid "Transition Effect"
+msgstr "Эффекты перехода"
+
+#: inc/functions/customizer.php:460
+msgid "Fade"
+msgstr "Растворение"
+
+#: inc/functions/customizer.php:461
+msgid "Wipe"
+msgstr "Вытирание"
+
+#: inc/functions/customizer.php:462
+msgid "Scroll Up"
+msgstr "Прокрутка наверх"
+
+#: inc/functions/customizer.php:463
+msgid "Scroll Down"
+msgstr "Прокрутка вниз"
+
+#: inc/functions/customizer.php:464
+msgid "Scroll Left"
+msgstr "Прокрутка влево"
+
+#: inc/functions/customizer.php:465
+msgid "Scroll Right"
+msgstr "Прокрутка вправо"
+
+#: inc/functions/customizer.php:466
+msgid "Blind X"
+msgstr "Смещение по горизонтали"
+
+#: inc/functions/customizer.php:467
+msgid "Blind Y"
+msgstr "Смещение по вертикали"
+
+#: inc/functions/customizer.php:468
+msgid "Blind Z"
+msgstr "Смещение по диагонали"
+
+#: inc/functions/customizer.php:469
+msgid "Cover"
+msgstr "Перекрытие"
+
+#: inc/functions/customizer.php:470
+msgid "Shuffle"
+msgstr "По кусочкам"
+
+#: inc/functions/customizer.php:480
+msgid "Transition Delay"
+msgstr "Время между переходами"
+
+#: inc/functions/customizer.php:492
+msgid "Transition Duration"
+msgstr "Скорость перехода"
+
+#: inc/functions/featured-content.php:366
+msgid "Tag Name"
+msgstr "Название метки"
+
+#: inc/functions/featured-content.php:371
+msgid "Don&rsquo;t display tag on front end."
+msgstr "Не показывать метку на сайте"
+
+#: inc/functions/functions.php:325
+msgid "on"
+msgstr "вкл."
+
+#: inc/structure/content-extensions.php:189
+#: inc/structure/content-extensions.php:323
+msgid "No Comments"
+msgstr "Нет комментариев"
+
+#: inc/structure/content-extensions.php:189
+#: inc/structure/content-extensions.php:323
+msgid "1 Comment"
+msgstr "1 комментарий"
+
+#: inc/structure/content-extensions.php:189
+#: inc/structure/content-extensions.php:323
+msgid "% Comments"
+msgstr "% комментариев"
+
+#: inc/structure/content-extensions.php:189
+#: inc/structure/content-extensions.php:323
+msgid "Comments Off"
+msgstr "Не комментируйте тут!"
+
+#: inc/structure/content-extensions.php:210
+msgid ", "
+msgstr ", "
+
+#: inc/structure/content-extensions.php:231
+#: inc/structure/content-extensions.php:282
+#: inc/structure/content-extensions.php:369
+#: inc/structure/content-extensions.php:410
+msgid "No Posts Found."
+msgstr "Нет записей."
+
+#: inc/structure/content-extensions.php:262
+#: inc/structure/content-extensions.php:333
+msgid "Pages:"
+msgstr "Страницы:"
+
+#: inc/structure/content-extensions.php:345
+msgid " "
+msgstr " "
+
+#: inc/structure/content-extensions.php:433
+msgid "&laquo; Previous"
+msgstr "&laquo; Предыдущие"
+
+#: inc/structure/content-extensions.php:436
+msgid "Next &raquo;"
+msgstr "Следующие &raquo;"
+
+#: inc/structure/content-extensions.php:455
+msgid "&larr; Previous"
+msgstr "&larr; Предыдущие"
+
+#: inc/structure/content-extensions.php:458
+msgid "Next &rarr;"
+msgstr "Следующие &rarr;"
+
+#: inc/structure/content-extensions.php:467
+msgid "&larr;"
+msgstr "&larr;"
+
+#: inc/structure/content-extensions.php:470
+msgid "&rarr;"
+msgstr "&rarr;"
+
+#: inc/structure/content-extensions.php:506
+msgid "Pingback:"
+msgstr "Обратные ссылки:"
+
+#: inc/structure/content-extensions.php:508
+msgid "(Edit)"
+msgstr "(Редактировать)"
+
+#: inc/structure/content-extensions.php:524
+msgid "Post author"
+msgstr "Автор"
+
+#: inc/structure/content-extensions.php:530
+#, php-format
+msgid "%1$s at %2$s"
+msgstr "%1$s в %2$s"
+
+#: inc/structure/content-extensions.php:536
+msgid "Your comment is awaiting moderation."
+msgstr "Ваш комментарий ждёт своей участи."
+
+#: inc/structure/content-extensions.php:541
+msgid "Edit"
+msgstr "Редактировать"
+
+#: inc/structure/content-extensions.php:544
+msgid "Reply <span>&darr;</span>"
+msgstr "Ответить <span>&darr;</span>"
+
+#: inc/structure/footer-extensions.php:57
+msgid "&copy;"
+msgstr "&copy;"
+
+#: inc/structure/footer-extensions.php:75
+msgid "Go to Top"
+msgstr "Наверх"
+
+#: inc/structure/header-extensions.php:103
+msgid "Responsive Menu"
+msgstr "Отзывчивое меню"
+
+#: inc/structure/header-extensions.php:206
+msgid "Page NOT Found"
+msgstr "Страница не найдена"
+
+#: inc/structure/header-extensions.php:208
+msgid "Search Results"
+msgstr "Нашёл:"
+
+#: inc/widgets/ambition-widgets.php:20
+msgid "Shows widgets at Left side."
+msgstr "Показывает виджеты слева."
+
+#: inc/widgets/ambition-widgets.php:30
+msgid "Shows widgets at Right side."
+msgstr "Показывает виджеты справа."
+
+#: inc/widgets/ambition-widgets.php:38
+msgid "Business Page Section"
+msgstr "Главная страница"
+
+#: inc/widgets/ambition-widgets.php:40
+msgid ""
+"Shows widgets on Business Page Template. Suitable widget: TH: Featured Page, "
+"TH: Featured Recent Work, TH: Testimonial, TH: Services, TH: PromoBox"
+msgstr ""
+"Показывает виджеты на главной странице. Доступны: TH: Рекомендованная "
+"страница, TH: Отзывы, TH: Услуги, TH: Промо"
+
+#: inc/widgets/ambition-widgets.php:48
+msgid "Contact Page Sidebar"
+msgstr "Сраница с контактами"
+
+#: inc/widgets/ambition-widgets.php:50
+msgid "Shows widgets on Contact Page Template."
+msgstr "Показывает виджеты на странице с контактами."
+
+#: inc/widgets/ambition-widgets.php:61
+msgid "Footer - Column1"
+msgstr "Подвал — столбец №1"
+
+#: inc/widgets/ambition-widgets.php:63
+msgid "Shows widgets at footer Column 1."
+msgstr "Показывает виджеты в первом столбце подвала."
+
+#: inc/widgets/ambition-widgets.php:71
+msgid "Footer - Column2"
+msgstr "Подвал — столбец №2"
+
+#: inc/widgets/ambition-widgets.php:73
+msgid "Shows widgets at footer Column 2."
+msgstr "Показывает виджеты во втором столбце подвала."
+
+#: inc/widgets/ambition-widgets.php:81
+msgid "Footer - Column3"
+msgstr "Подвал — столбец №3"
+
+#: inc/widgets/ambition-widgets.php:83
+msgid "Shows widgets at footer Column 3."
+msgstr "Показывает виджеты в третьем столбце подвала."
+
+#: inc/widgets/ambition-widgets.php:91
+msgid "Footer - Column4"
+msgstr "Подвал — столбец №4"
+
+#: inc/widgets/ambition-widgets.php:93
+msgid "Shows widgets at footer Column 4."
+msgstr "Показывает виджеты в четвёртом столбце подвала."
+
+#: inc/widgets/ambition-widgets.php:121
+msgid "Display Featured Page ( Business Layout )"
+msgstr "Рекомендованная страница на главной"
+
+#: inc/widgets/ambition-widgets.php:127
+msgid "TH: Featured Page"
+msgstr "TH: Рекомендованная страница"
+
+#: inc/widgets/ambition-widgets.php:147
+msgid "Display your Featured Page Content:"
+msgstr "Ваши рекомендованные материалы:"
+
+#: inc/widgets/ambition-widgets.php:149
+msgid "Left"
+msgstr "Слева"
+
+#: inc/widgets/ambition-widgets.php:152
+msgid "Right"
+msgstr "Справа"
+
+#: inc/widgets/ambition-widgets.php:155
+msgid "Middle"
+msgstr "Посередине"
+
+#: inc/widgets/ambition-widgets.php:159
+msgid "Description:"
+msgstr "Описание:"
+
+#: inc/widgets/ambition-widgets.php:168 inc/widgets/ambition-widgets.php:358
+#: inc/widgets/ambition-widgets.php:609
+msgid "Page"
+msgstr "Страница"
+
+#: inc/widgets/ambition-widgets.php:227 inc/widgets/ambition-widgets.php:438
+msgid "Read more"
+msgstr "Читать далее"
+
+#: inc/widgets/ambition-widgets.php:262
+msgid "Displays Custom Tag Cloud"
+msgstr "Показывает облако меток"
+
+#: inc/widgets/ambition-widgets.php:268
+msgid "TH: Custom Tag Cloud"
+msgstr "TH: Облако меток"
+
+#: inc/widgets/ambition-widgets.php:316 inc/widgets/ambition-widgets.php:599
+#: inc/widgets/ambition-widgets.php:748
+msgid "Title:"
+msgstr "Название:"
+
+#: inc/widgets/ambition-widgets.php:336
+msgid "Display Services ( Business Layout )"
+msgstr "Показывает услуги на главной странице"
+
+#: inc/widgets/ambition-widgets.php:342
+msgid "TH: Services"
+msgstr "TH: Услуги"
+
+#: inc/widgets/ambition-widgets.php:469
+msgid "Display PromoBox ( Business Layout )"
+msgstr ""
+"Показывает блок с фоновой картинкой, текстом и кнопкой на главной странице"
+
+#: inc/widgets/ambition-widgets.php:475
+msgid "TH: PromoBox"
+msgstr "TH: Промо"
+
+#: inc/widgets/ambition-widgets.php:529
+msgid "Background Image:"
+msgstr "Фоновое изображение:"
+
+#: inc/widgets/ambition-widgets.php:538
+msgid "Primary Promotional:"
+msgstr "Заголовок:"
+
+#: inc/widgets/ambition-widgets.php:542
+msgid "Secondary Promotional"
+msgstr "Описание:"
+
+#: inc/widgets/ambition-widgets.php:546
+msgid "Redirect Text:"
+msgstr "Текст на кнопке:"
+
+#: inc/widgets/ambition-widgets.php:552
+msgid "Redirect Url:"
+msgstr "Ссылка с кнопки:"
+
+#: inc/widgets/ambition-widgets.php:573
+msgid ""
+"Use this widget to show recent work, portfolio or any pages as your wish "
+"( Business Layout )"
+msgstr ""
+"Картинки со ссылками на свежие работы, портфолио или любые другие страницы."
+
+#: inc/widgets/ambition-widgets.php:579
+msgid "TH: Featured Recent Work"
+msgstr "TH: Свежие работы"
+
+#: inc/widgets/ambition-widgets.php:603
+msgid "Description"
+msgstr "Описание"
+
+#: inc/widgets/ambition-widgets.php:711
+msgid ""
+"Display Testimonial ( Business Layout ) recommendation size ( 168 * 168 )"
+msgstr "Отзывы клиентов на главной странице. Размер фотографии 168×168px."
+
+#: inc/widgets/ambition-widgets.php:717
+msgid "TH: Testimonial"
+msgstr "TH: Отзывы"
+
+#: inc/widgets/ambition-widgets.php:768
+msgid "Testimonial Description "
+msgstr "Отзыв"
+
+#: inc/widgets/ambition-widgets.php:773
+msgid "Add Image"
+msgstr "Фотография"
+
+#: inc/widgets/ambition-widgets.php:777
+msgid "Name "
+msgstr "Имя"
+
+#: inc/widgets/ambition-widgets.php:783
+msgid "Designation "
+msgstr "Должность"
+
+#: inc/widgets/ambition-widgets.php:789
+msgid "Company Name "
+msgstr "Название компании"
+
+#: inc/widgets/ambition-widgets.php:795
+msgid "Company Link "
+msgstr "Ссылка на сайт компании"
+
+#: inc/widgets/ambition-widgets.php:892
+msgid "Display Featured Clients/ Products ( Business Layout )"
+msgstr "Логотипы клиентов или продукты на главной странице"
+
+#: inc/widgets/ambition-widgets.php:908
+msgid ""
+"Note: Recommended size for the image is 400px (width) and 150px (height). If "
+"you want more image adding fields then first enter the number and click on "
+"Save, this will allow you more image adding fields"
+msgstr ""
+"Размер картинок 400×150px. Если хотите показать больше картинок, то сначала "
+"введите их число, сохраните, а потом добавляйте картинки."
+
+#: inc/widgets/ambition-widgets.php:912
+msgid "Image Title:"
+msgstr "Название картинки:"
+
+#: inc/widgets/ambition-widgets.php:918
+msgid "Number of Images:"
+msgstr "Количество картинок:"
+
+#: inc/widgets/ambition-widgets.php:932
+msgid "Redirect Link:"
+msgstr "Ссылка с картинки:"
