@@ -62,4 +62,8 @@ wpcli-docker user create test test@email.com
 wpcli-docker post create --post_type=page --post_title='A Sample post' --post_status=future --post_date='2017-06-01 07:00:00'
 ```
 
-## Your new site instance is now running on `localhost:8080`.
+# **Site Is Live** 
+Your new site instance is now running on `localhost:8080`. If you didn't change the sample `sql` dump then you have a test user of,
+
+**Username**: `test` \
+**Password**: `test123`
