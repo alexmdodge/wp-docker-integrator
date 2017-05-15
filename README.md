@@ -1,11 +1,11 @@
-# Docker WordPress CLI Development
-A Docker configuration with WP and the WP CLI for easy and efficiency WordPress development.
+# WP Docker Integrator
+A sample Docker configuration with WordPress and the WordPress CLI for easy and efficient WordPress development.
 
 # Setup
 This container can be run to generate a fresh WordPress installation, or can generate a container based on a previous website (which seems to more often be the case).
 
 ## From Another Site
-Ensure that you have a `.sql` backup of the database you wish to use, as well as any subset of the WordPress core files from a previous site. In order for the `.sql` files to work with the container, they need to create a table called `wordpress` and use it in the configuration. This can be done through most db software, but if not, simply add these lines to the top of the sql dump,
+Ensure that you have a `sql` backup of the database you wish to use, as well as any subset of the WordPress core files from a previous site. In order for the `sql` files to work with the container, they need to create a table called `wordpress` and use it in the configuration. This can be done through most db software, but if not, simply add these lines to the top of the sql dump,
 
 ```
 CREATE DATABASE  IF NOT EXISTS `wordpress` /*!40100 DEFAULT CHARACTER SET latin1 */;
@@ -19,7 +19,7 @@ db:
 . . .
    environment:
       MYSQL_DATATBASE: new_db_here
-wp
+wp:
 . . .
     environment:
       WORDPRESS_DB_NAME: new_db_here
