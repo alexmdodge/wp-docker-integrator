@@ -1,6 +1,9 @@
 # WP Docker Integrator
 A sample Docker configuration with WordPress and the WordPress CLI for easy and efficient WordPress development.
 
+# Reason
+In the past as I've worked through Docker examples and WordPress integrations often it's been setting up projects from the beginning with not a lot of information on integrating current projects already in use. I've tried to go through in detail how to convert sites typically hosted on a local machine and how to move them into this project.
+
 # Setup
 This container can be run to generate a fresh WordPress installation, or can generate a container based on a previous website (which seems to more often be the case).
 
