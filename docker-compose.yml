@@ -17,7 +17,7 @@ services:
       retries: 3
   wp:
     container_name: sample-wp
-    build: .
+    image: tatemz/wp-cli
     volumes:
       - ./wp:/var/www/html
     ports:
